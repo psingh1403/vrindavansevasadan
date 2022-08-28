@@ -1,0 +1,20 @@
+body{
+	background-color: #a3aaad;
+}
+
+#active{
+	/*background: #1625ab;*/
+	border-radius: 5px;
+	border-top: 2px solid #1625ab;
+	border-bottom: 2px solid #1625ab;
+}
+
+.adminlogin #heading{
+	width: 370px;
+	text-align: center;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	font-size: 30px; 
+	margin-right: 90px; 
+	background-color: #1625ab;
+}
