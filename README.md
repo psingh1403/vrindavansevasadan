@@ -1,5 +1,5 @@
-# About This Project: 
-  This is hotel management based website, where user can book room for stay. you can see all avaliable rooms, types of rooms, food like breakfast, lunch, dinner. After leaving the room user can pay the amount through online and offline mode. 
+# About: 
+This is hotel management based website, where user can book room for stay. you can see all avaliable rooms, types of rooms, food like breakfast, lunch, dinner. After leaving the room user can pay the amount through online and offline mode. 
 This web application provide two more section first one is user section and second one is admin section. In user section user can edit there details, can see all room booking details, can change password, can contact with hotel staff members for more information. and in admin section, the hotel manager can add new rooms, can add or delete avaliable food in the hotel, add or delete the employee information from the admin section.
 
 # Download:
